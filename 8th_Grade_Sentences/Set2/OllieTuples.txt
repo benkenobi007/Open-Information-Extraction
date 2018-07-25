@@ -1,0 +1,46 @@
+Students will investigate rates and scales of processes including earthquakes, erosion, mountain building, and resource
+formation.
+0.799: (Students; will investigate; rates and scales of processes)
+0.343: (erosion; be processes including; earthquakes)
+
+Studies of glacial rebound give us information about the flow law of mantle rocks and also past ice sheet history.
+0.834: (Studies of glacial rebound; give us; information about the flow law of mantle rocks and also past ice sheet hist
+ory)
+
+Study of organisms following absorption of energy from ionizing radiation, particularly damage which may be produced by
+this energy.
+No extractions found.
+
+The 7 ecosystems enable the reserve to host an incredible variety of animals and birds.
+0.79: (the reserve; be an incredible variety of; animals and birds)
+0.347: (an incredible variety of animals; be the reserve to; host)
+
+The air handler contains a large blower and a filter just like conventional air conditioners.
+0.74: (The air handler; contains; a large blower and a filter)
+
+The animal-like part of our brain, the so-called reptile brain, contains our fight or flight response mechanism.
+0.829: (The animal-like part of our brain; contains; our fight or flight response mechanism)
+0.334: (animal-like; be part of; our brain)
+
+The atomic number, that is, the number of protons in the nucleus and the number of electrons around the nucleus is the s
+ignificant, essential basis for the modern periodic table.
+0.876: (the number of protons in the nucleus and the number of electrons; is the significant , essential basis for; the
+modern periodic table)
+0.735: (the number of protons in the nucleus and the number of electrons; is; the significant , essential basis)
+0.494: (the significant , essential basis; be the number of; electrons)
+0.351: (the significant , essential basis; be the number of electrons around; the nucleus)
+0.351: (the significant , essential basis; be the number of protons in; the nucleus)
+0.329: (the significant , essential basis; be the number of; protons)
+
+The documentary also looks at how farmers are learning about ecology and discovering how to produce crops with less pest
+icides, often eliminating these toxic chemicals altogether.
+0.653: (farmers; are learning; about ecology)
+0.447: (crops; to be produce with; less pesticides)
+
+The downward force on the air is equal and opposite to the upward force on the wing.
+0.746: (The downward force; is; equal and opposite)
+0.633: (The downward force; be opposite to; the upward force)
+0.441: (equal and opposite; be The downward force on; the air)
+
+The equipment to accomplish this consists only of a water meter suitable for use in hot water.
+0.859: (The equipment to accomplish this; consists of; a water meter suitable)

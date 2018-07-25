@@ -1,0 +1,32 @@
+They are working hard.
+No extractions found.
+
+They will be working hard.
+No extractions found.
+
+They had worked hard.
+No extractions found.
+
+They have been working hard.
+No extractions found.
+
+They might have been working hard.
+No extractions found.
+
+I'll come home when I finish work.
+0.654: (I; finish; work)
+
+You must wait here until your father comes.
+No extractions found.
+
+They are coming after they have had dinner.
+0.783: (they; have had; dinner)
+
+We won't be able to go out if it is raining.
+0.554: (We; wo be; n't be able)
+
+If Barcelona win tomorrow they will be champions.
+0.807: (they; will be; champions)
+
+I will come tomorrow unless I have to look after the children.
+0.64: (I; have to look after; the children)

@@ -1,0 +1,55 @@
+Sentence : A cancerous cell would look like a field overgrown with grass after all of the bushes and trees have been cut down to barely visible stumps.
+Textual mention : 1.0	cancerous cell		would look like		field
+Textual mention : 1.0	cell		would look like		field
+
+Sentence : After seeds germinate, the plants develop into the rosette stage.
+Textual mention : 1.0	plants		develop into		rosette stage
+Textual mention : 1.0	plants		develop		seeds germinate
+
+Sentence : All basic body constituents are held in water, and it is the medium in which all chemical reactions take place in the body.
+Textual mention : 1.0	basic body constituents		are		held
+Textual mention : 1.0	chemical reactions		take place in		body
+Textual mention : 1.0	chemical reactions		take		place
+Textual mention : 1.0	basic body constituents		are held in		water
+
+Sentence : All living things must be composed of a single cell or groups of cells.
+Textual mention : 1.0	living things		must		must composed of cell
+Textual mention : 1.0	living things		must		must composed
+Textual mention : 1.0	living things		must		must composed of single cell
+
+Sentence : All organizations require tremendous outgoing energy to survive and thrive.
+Textual mention : 1.0	organizations		require		outgoing energy
+Textual mention : 1.0	organizations		require		tremendous energy
+Textual mention : 1.0	organizations		require		tremendous outgoing energy
+Textual mention : 1.0	organizations		require		energy
+
+Sentence : Also, at times a dam failure can cause a flash flood.
+Textual mention : 1.0	dam failure		can cause flash flood at		times
+Textual mention : 1.0	dam failure		Also can cause		flash flood
+Textual mention : 1.0	dam failure		can cause		flash flood
+Textual mention : 1.0	dam failure		Also can cause flash flood at		times
+
+Sentence : A typical spiral galaxy contains about one hundred billion stars and is approximately one hundred thousand light years across.
+Textual mention : 1.0	typical spiral galaxy		is		approximately one hundred thousand years
+Textual mention : 1.0	spiral galaxy		is		approximately one hundred thousand light years
+Textual mention : 1.0	typical spiral galaxy		contains		about one hundred billion stars
+Textual mention : 1.0	spiral galaxy		is		approximately one hundred thousand years
+Textual mention : 1.0	typical spiral galaxy		is		approximately one hundred thousand light years
+Textual mention : 1.0	spiral galaxy		contains		about one hundred billion stars
+
+Sentence : Scientists have been looking for and studying dinosaur bones for almost 200 years.
+
+Sentence : So, most likely this is a marine natural product, formed by a marine bacterium.
+Textual mention : 1.0	marine product		formed by		bacterium
+Textual mention : 1.0	marine natural product		formed by		bacterium
+Textual mention : 1.0	this		is		natural
+Textual mention : 1.0	marine product		formed by		marine bacterium
+Textual mention : 1.0	product		formed by		marine bacterium
+Textual mention : 1.0	natural product		formed by		marine bacterium
+Textual mention : 1.0	this		is		marine
+Textual mention : 1.0	product		formed by		bacterium
+Textual mention : 1.0	marine natural product		formed by		marine bacterium
+Textual mention : 1.0	natural product		formed by		bacterium
+
+Sentence : Some of the problems in the statistics of the coupled motion amplitudes are probably related to the large numbers of velocity direction changes found in these motions.
+Textual mention : 1.0	problems		is in		statistics of coupled motion amplitudes

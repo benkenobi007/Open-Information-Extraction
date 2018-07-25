@@ -1,0 +1,154 @@
+Sentence : Students will investigate rates and scales of processes including earthquakes, erosion, mountain building, and resource formation.
+Textual mention : 1.0	Students		will investigate		rates of processes
+Textual mention : 1.0	Students		will investigate		scales
+Textual mention : 1.0	Students		will investigate		rates
+Textual mention : 1.0	Students		will investigate		rates of processes including earthquakes
+
+Sentence : Studies of glacial rebound give us information about the flow law of mantle rocks and also past ice sheet history.
+Textual mention : 1.0	Studies		give		information about flow law of mantle rocks
+Textual mention : 1.0	Studies		give		information
+Textual mention : 1.0	Studies		give		information about flow law
+Textual mention : 1.0	Studies		give		us
+
+Sentence : Study of organisms following absorption of energy from ionizing radiation, particularly damage which may be produced by this energy.
+Textual mention : 1.0	energy		of absorption is		particularly damage
+
+Sentence : The 7 ecosystems enable the reserve to host an incredible variety of animals and birds.
+Textual mention : 1.0	ecosystems		enable		reserve
+Textual mention : 1.0	reserve		host		variety of animals
+Textual mention : 1.0	reserve		host		variety
+Textual mention : 1.0	reserve		host		incredible variety
+Textual mention : 1.0	reserve		host		incredible variety of animals
+Textual mention : 1.0	7 ecosystems		enable		reserve
+
+Sentence : The air handler contains a large blower and a filter just like conventional air conditioners.
+Textual mention : 1.0	air handler		contains		filter
+Textual mention : 1.0	air handler		contains		blower
+Textual mention : 1.0	air handler		contains		large blower like air conditioners
+Textual mention : 1.0	air handler		contains		large blower like conventional air conditioners
+Textual mention : 1.0	air handler		contains		large blower just like air conditioners
+Textual mention : 1.0	air handler		contains		blower just like air conditioners
+Textual mention : 1.0	air handler		contains		large blower just like conventional air conditioners
+Textual mention : 1.0	air handler		contains		blower like conventional air conditioners
+Textual mention : 1.0	air handler		contains		blower just like conventional air conditioners
+Textual mention : 1.0	air handler		contains		large blower
+Textual mention : 1.0	air handler		contains		blower like air conditioners
+
+Sentence : The animal-like part of our brain, the so-called reptile brain, contains our fight or flight response mechanism.
+Textual mention : 1.0	animal-like part		contains		flight response mechanism
+Textual mention : 1.0	our brain		of part is		so-called reptile brain
+Textual mention : 1.0	animal-like part		contains		our fight
+Textual mention : 1.0	part		contains		flight response mechanism
+Textual mention : 1.0	part		contains		our fight
+
+Sentence : The atomic number, that is, the number of protons in the nucleus and the number of electrons around the nucleus is the significant, essential basis for the modern periodic table.
+Textual mention : 1.0	electrons		number of is		significant basis for periodic table
+Textual mention : 1.0	protons		number of is		basis for table
+Textual mention : 1.0	protons		number of is		significant basis for table
+Textual mention : 1.0	number		is		significant basis for modern periodic table
+Textual mention : 1.0	number		is		significant basis for modern periodic table
+Textual mention : 1.0	number		is		significant basis
+Textual mention : 1.0	number		is		significant basis
+Textual mention : 1.0	number		is		essential basis for modern table
+Textual mention : 1.0	number		is		essential basis for modern table
+Textual mention : 1.0	protons		number of is		significant essential basis for modern periodic table
+Textual mention : 1.0	electrons		number of is		significant essential basis for table
+Textual mention : 1.0	number		is		significant basis for modern table
+Textual mention : 1.0	number		is		significant basis for modern table
+Textual mention : 1.0	protons		number of is		essential basis
+Textual mention : 1.0	electrons		number of is		significant basis for table
+Textual mention : 1.0	protons		number of is		significant essential basis
+Textual mention : 1.0	number		is		essential basis for table
+Textual mention : 1.0	number		is		essential basis for table
+Textual mention : 1.0	number		is		basis
+Textual mention : 1.0	number		is		basis
+Textual mention : 1.0	number		is		significant essential basis for modern table
+Textual mention : 1.0	number		is		significant essential basis for modern table
+Textual mention : 1.0	protons		number of is		basis for periodic table
+Textual mention : 1.0	electrons		number of is		essential basis
+Textual mention : 1.0	number		is		significant essential basis for table
+Textual mention : 1.0	number		is		significant essential basis for table
+Textual mention : 1.0	protons		number of is		basis for modern periodic table
+Textual mention : 1.0	electrons		number of is		significant essential basis
+Textual mention : 1.0	electrons		number of is		significant basis
+Textual mention : 1.0	protons		number of is		significant essential basis for periodic table
+Textual mention : 1.0	electrons		number of is		basis for table
+Textual mention : 1.0	protons		number of is		significant basis for modern table
+Textual mention : 1.0	number		is		significant basis for periodic table
+Textual mention : 1.0	number		is		significant basis for periodic table
+Textual mention : 1.0	protons		number of is		essential basis for modern table
+Textual mention : 1.0	protons		number of is		basis for modern table
+Textual mention : 1.0	electrons		number of is		essential basis for table
+Textual mention : 1.0	protons		number of is		significant essential basis for modern table
+Textual mention : 0.43846483898845073	number		number of		protons in nucleus
+Textual mention : 1.0	electrons		number of is		significant basis for modern periodic table
+Textual mention : 1.0	protons		number of is		significant basis for modern periodic table
+Textual mention : 1.0	number		is		basis for table
+Textual mention : 1.0	number		is		basis for table
+Textual mention : 1.0	electrons		number of is		basis for periodic table
+Textual mention : 1.0	electrons		number of is		essential basis for modern table
+Textual mention : 1.0	electrons		number of is		significant essential basis for periodic table
+Textual mention : 1.0	number		is		basis for modern periodic table
+Textual mention : 1.0	number		is		basis for modern periodic table
+Textual mention : 1.0	protons		number of is		basis
+Textual mention : 1.0	number		is		essential basis
+Textual mention : 1.0	number		is		essential basis
+Textual mention : 1.0	protons		number of is		essential basis for table
+Textual mention : 1.0	electrons		number of is		essential basis for modern periodic table
+Textual mention : 1.0	number		is		significant basis for table
+Textual mention : 1.0	number		is		significant basis for table
+Textual mention : 1.0	number		is		essential basis for periodic table
+Textual mention : 1.0	number		is		essential basis for periodic table
+Textual mention : 1.0	electrons		number of is		significant basis for modern table
+Textual mention : 1.0	electrons		number of is		significant essential basis for modern periodic table
+Textual mention : 1.0	number		is		significant essential basis for modern periodic table
+Textual mention : 1.0	number		is		significant essential basis for modern periodic table
+Textual mention : 1.0	protons		number of is		significant essential basis for table
+Textual mention : 1.0	number		is		basis for modern table
+Textual mention : 1.0	number		is		basis for modern table
+Textual mention : 1.0	protons		number of is		essential basis for periodic table
+Textual mention : 1.0	number		is		essential basis for modern periodic table
+Textual mention : 1.0	number		is		essential basis for modern periodic table
+Textual mention : 1.0	electrons		number of is		basis for modern periodic table
+Textual mention : 0.43846483898845073	number		number of		protons
+Textual mention : 1.0	electrons		number of is		basis for modern table
+Textual mention : 1.0	protons		number of is		significant basis for periodic table
+Textual mention : 1.0	electrons		number of is		essential basis for periodic table
+Textual mention : 1.0	number		is		significant essential basis for periodic table
+Textual mention : 1.0	number		is		significant essential basis for periodic table
+Textual mention : 1.0	protons		is in		nucleus
+Textual mention : 1.0	protons		number of is		significant basis
+Textual mention : 1.0	number		is		significant essential basis
+Textual mention : 1.0	number		is		significant essential basis
+Textual mention : 1.0	number		is		basis for periodic table
+Textual mention : 1.0	number		is		basis for periodic table
+Textual mention : 1.0	electrons		number of is		significant essential basis for modern table
+Textual mention : 1.0	protons		number of is		essential basis for modern periodic table
+Textual mention : 1.0	electrons		number of is		basis
+
+Sentence : The documentary also looks at how farmers are learning about ecology and discovering how to produce crops with less pesticides, often eliminating these toxic chemicals altogether.
+Textual mention : 1.0	farmers		often eliminating		toxic chemicals
+Textual mention : 1.0	documentary		also looks		how farmers are learning
+Textual mention : 1.0	farmers		eliminating altogether		chemicals
+Textual mention : 1.0	documentary		looks		farmers are learning about ecology
+Textual mention : 1.0	farmers		eliminating		toxic chemicals
+Textual mention : 1.0	documentary		looks		how farmers are learning
+Textual mention : 1.0	documentary		looks		farmers are learning
+Textual mention : 1.0	farmers		eliminating altogether		toxic chemicals
+Textual mention : 1.0	crops		is with		less pesticides
+Textual mention : 1.0	farmers		are learning about		ecology
+Textual mention : 1.0	farmers		often eliminating		chemicals
+Textual mention : 1.0	documentary		also looks		how farmers are learning about ecology
+Textual mention : 1.0	farmers		often eliminating altogether		chemicals
+Textual mention : 1.0	documentary		also looks		farmers are learning
+Textual mention : 1.0	farmers		often eliminating altogether		toxic chemicals
+Textual mention : 1.0	documentary		also looks		farmers are learning about ecology
+Textual mention : 1.0	documentary		looks		how farmers are learning about ecology
+Textual mention : 1.0	farmers		eliminating		chemicals
+
+Sentence : The downward force on the air is equal and opposite to the upward force on the wing.
+Textual mention : 1.0	downward force		is		equal
+Textual mention : 1.0	force		is		equal
+
+Sentence : The equipment to accomplish this consists only of a water meter suitable for use in hot water.
+Textual mention : 1.0	use		is in		hot water

@@ -1,0 +1,33 @@
+The lion was killed by the hunter.
+0.919: (The lion; was killed by; the hunter)
+
+The windows have been cleaned.
+No extractions found.
+
+Someone has cleaned the windows.
+0.769: (Someone; has cleaned; the windows)
+
+The hunter killed the lion.
+0.815: (The hunter; killed; the lion)
+
+He was given a book for his birthday.
+0.7: (He; was given; a book)
+
+I gave him a book for his birthday.
+0.761: (I; gave him; a book)
+0.638: (I; gave him for; his birthday)
+
+Someone sent her a cheque for a thousand euros.
+0.837: (Someone; sent her; a cheque)
+
+She was sent a cheque for a thousand euros.
+0.7: (She; was sent; a cheque)
+
+His grandmother looked after him.
+0.904: (His grandmother; looked after; him)
+
+He was looked after by his grandmother.
+No extractions found.
+
+The children are growing up.
+No extractions found.

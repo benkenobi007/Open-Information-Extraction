@@ -1,0 +1,24 @@
+(a field; overgrown; with grass after all of the bushes and trees)
+##Sentence 2
+(seeds; germinate; )
+(the plants; develop; into the rosette stage; T:After seeds germinate)
+
+##Sentence 3
+(All basic body constituents; are held; L:in water)
+(it; is; the medium in which all chemical reactions take place in the body)
+(all chemical reactions; take; place; L:in the body; L:the medium)
+
+(All living things; must be composed; of a single cell or groups of cells)
+(All organizations; require; tremendous outgoing energy; to survive and thrive)
+(a dam failure; can cause; a flash flood; T:at times)
+
+##Sentence 7
+(A typical spiral galaxy; contains; about one hundred billion stars)
+(A typical spiral galaxy; is; approximately one hundred thousand light years across)
+
+##Sentence 8
+(Scientists; have been looking; for)
+(Scientists; studying; dinosaur bones; T:for almost 200 years)
+
+(a marine natural product; formed; by a marine bacterium)
+(velocity direction changes; found; L:in these motions)

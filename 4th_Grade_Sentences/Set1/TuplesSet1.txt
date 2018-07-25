@@ -1,0 +1,19 @@
+(A click on the glass of water; produces; the sound of water running)
+(spice mixture; set; aside)
+(A different definition of life-cycle costing; is used; L:here)
+(Adult females; will lay; eggs)
+(A food thermometer; is; a good tool to have in your kitchen)
+(A glacier; is; a large body of ice and snow)
+(A good supply of iron and zinc; is needed; L:in the diet; to keep the nails strong)
+
+##Tuples for sentence #8:
+1. (Agriculture and aquaculture; are; dependent upon parasitologists to assist in providing plant and animal food for an increasing human population)
+2. (Agriculture and aquaculture; to assist; in providing plant and animal food for an increasing human population)
+3. (Agriculture and aquaculture; are dependent upon; parasitologists)
+
+##Tuple for Sentence #9 onwards:
+(A heat pump; makes; use of the existing heat in the air)
+
+##Sentence 10 Tuples
+(All of our dogs; prefer; this; to tinned or dried dog food)
+(it; is; much cheaper)

@@ -1,0 +1,19 @@
+(Students; will investigate; rates and scales of processes including earthquakes, erosion, mountain building, and resource formation)
+(Studies of glacial rebound; give; us; information about the flow law of mantle rocks and also past ice sheet history)
+(particularly damage; may be produced; by this energy)
+##Sentence 4
+(The 7 ecosystems; enable; the reserve to host an incredible variety of animals and birds)
+(the reserve; to host; an incredible variety of animals and birds)
+
+(The air handler; contains; a large blower and a filter just like conventional air conditioners)
+(The animal-like part of our brain; contains; our fight or flight response mechanism)
+(the number of protons in the nucleus and the number of electrons around the nucleus; is; the significant, essential basis for the modern periodic table)
+##Sentence 8
+(The documentary; looks; at how farmers are learning about ecology and discovering how to produce crops with less pesticides, often eliminating these toxic chemicals altogether)
+(farmers; are learning; about ecology)
+Context(farmers are learning,List([34, 54))):(farmers; are learning about ecology eliminating altogether; T:often)
+(farmers; discovering; how to produce crops with less pesticides)
+Context(farmers discovering,List([34, 84))):(farmers; discovering to produce; crops)
+
+(The downward force on the air; is; equal and opposite to the upward force on the wing)
+(The equipment to accomplish this; consists; only of a water meter suitable for use in hot water)

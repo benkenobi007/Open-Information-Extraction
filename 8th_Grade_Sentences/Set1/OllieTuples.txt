@@ -1,0 +1,45 @@
+A cancerous cell would look like a field overgrown with grass after all of the b
+ushes and trees have been cut down to barely visible stumps.
+0.896: (A cancerous cell; would look like; a field overgrown with grass after al
+l of the bushes and trees have been cut down to barely visible stumps)
+0.671: (a field; be overgrown with; grass)[enabler=after all of the bushes and t
+rees have been cut down to barely visible stumps]
+
+After seeds germinate, the plants develop into the rosette stage.
+0.834: (the plants; develop into; the rosette stage)[enabler=After seeds germina
+te]
+
+All basic body constituents are held in water, and it is the medium in which all
+ chemical reactions take place in the body.
+0.9: (All basic body constituents; are held in; water)
+0.821: (all chemical reactions; take place in; the body)
+0.783: (all chemical reactions; take; place)
+0.704: (it; is; the medium in which all chemical reactions take place in the bod
+y)
+0.553: (All basic body constituents; are held at; water)
+
+All living things must be composed of a single cell or groups of cells.
+0.951: (All living things; must be composed of; a single cell or groups of cells
+)
+
+All organizations require tremendous outgoing energy to survive and thrive.
+No extractions found.
+
+Also, at times a dam failure can cause a flash flood.
+0.773: (a dam failure; can cause; a flash flood)
+
+A typical spiral galaxy contains about one hundred billion stars and is approxim
+ately one hundred thousand light years across.
+0.789: (A typical spiral galaxy; contains; about one hundred billion stars)
+
+Scientists have been looking for and studying dinosaur bones for almost 200 year
+s.
+0.661: (dinosaur bones; be studying for; almost 200 years)
+
+So, most likely this is a marine natural product, formed by a marine bacterium.
+0.829: (a marine natural product; be formed by; a marine bacterium)
+
+Some of the problems in the statistics of the coupled motion amplitudes are prob
+ably related to the large numbers of velocity direction changes found in these m
+otions.
+No extractions found.

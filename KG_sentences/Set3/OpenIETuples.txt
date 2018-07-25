@@ -1,0 +1,33 @@
+Sentence : They are working hard.
+
+Sentence : They will be working hard.
+
+Sentence : They had worked hard.
+
+Sentence : They have been working hard.
+
+Sentence : They might have been working hard.
+
+Sentence : I'll come home when I finish work.
+Textual mention : 1.0	I		finish		work
+Textual mention : 1.0	I		'll come		home
+
+Sentence : You must wait here until your father comes.
+Textual mention : 1.0	You		must wait		your father comes
+Textual mention : 1.0	You		must wait here		your father comes
+
+Sentence : They are coming after they have had dinner.
+Textual mention : 1.0	they		have had		dinner
+
+Sentence : We won't be able to go out if it is raining.
+
+Sentence : If Barcelona win tomorrow they will be champions.
+Textual mention : 1.0	they		will		will champions
+Textual mention : 1.0	Barcelona		win at_time		tomorrow
+
+Sentence : I will come tomorrow unless I have to look after the children.
+Textual mention : 1.0	I		will come at_time		tomorrow
+Textual mention : 1.0	I		have		look after children
+Textual mention : 1.0	I		have		look
+Textual mention : 1.0	I		look after		children
+Textual mention : 1.0	I		will come		I have

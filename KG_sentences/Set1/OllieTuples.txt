@@ -1,0 +1,36 @@
+I played football.
+0.733: (I; played; football)
+
+We ate lots of cake!
+0.792: (We; ate; lots of cake)
+
+She didn't watch a film.
+0.607: (She; did n't watch; a film)
+
+The next train leaves at this evening at 1700 hours.
+No extractions found.
+
+I'll phone you when I get home.
+0.603: (I; get; home)
+0.576: (I; 'll phone; you)[enabler=when I get home]
+
+He is meeting Peter in town this afternoon.
+0.639: (Peter; is meeting in; town)
+0.584: (He; is meeting Peter in; town)
+0.561: (He; is meeting; Peter)
+
+I'll come home as soon as I have finished work.
+0.545: (I; have finished; work)
+
+You will be tired out after you have been working all night.
+No extractions found.
+
+The school term starts next week.
+0.788: (The school term; starts in; next week)
+
+The train leaves at 1945 this evening.
+0.823: (The train; leaves at; 1945)
+0.788: (The train; leaves in; this evening)
+
+We fly to Paris next week.
+0.687: (We; fly to; Paris)

@@ -1,0 +1,11 @@
+The lion was killed by the hunter.					--> OEG, OLG
+The windows have been cleaned.						--> OEB, OLN
+Someone has cleaned the windows.					--> OEG, OLG
+The hunter killed the lion.							--> OEG, OLG
+He was given a book for his birthday.				--> OEG, OLB
+I gave him a book for his birthday.					--> OEB, OLB
+Someone sent her a cheque for a thousand euros.		--> OEB, OLB
+She was sent a cheque for a thousand euros.			--> OEG, OLB
+His grandmother looked after him.					--> OEG, OLG
+He was looked after by his grandmother.				--> OEB, OLN
+The children are growing up.						--> OEN, OLN

@@ -1,0 +1,68 @@
+Sentence : Crystals form most quickly on metal components.
+Textual mention : 1.0	Crystals		form quickly on		metal components
+Textual mention : 1.0	Crystals		form on		metal components
+Textual mention : 1.0	Crystals		form most quickly on		metal components
+
+Sentence : Drinking water increases the volume of urine.
+Textual mention : 1.0	volume		Drinking		water
+
+Sentence : Energy from the sun is the driving force of an ecosystem.
+Textual mention : 1.0	Energy		is		driving force
+Textual mention : 1.0	Energy		is		force
+Textual mention : 1.0	Energy		is force of		ecosystem
+Textual mention : 1.0	Energy		is driving force of		ecosystem
+
+Sentence : Energy from the sun reaches the earth by radiation only.
+Textual mention : 1.0	Energy		reaches earth by		radiation
+Textual mention : 1.0	Energy		reaches earth only by		radiation
+Textual mention : 1.0	Energy		reaches		earth
+Textual mention : 1.0	Energy		reaches only		earth
+
+Sentence : Fertilizers can be expensive and are manufactured using nonrenewable fossil fuels.
+Textual mention : 1.0	Fertilizers		can		can expensive
+Textual mention : 1.0	Fertilizers		are		manufactured
+
+Sentence : For example, mole crickets usually lay eggs in the same location each year.
+Textual mention : 1.0	mole crickets		usually lay eggs at_time		year
+Textual mention : 0.02038138290973901	mole crickets		usually lay at_time		year
+Textual mention : 1.0	mole crickets		lay eggs at_time		year
+Textual mention : 0.02038138290973901	mole crickets		lay at_time		year
+
+Sentence : For example, there is the paper and pencil test , clinical laboratory tests, and physical changes observed in the clinical setting.
+Textual mention : 1.0	clinical laboratory tests		is For		example
+Textual mention : 1.0	laboratory tests		is For		example
+Textual mention : 1.0	changes		is For		example
+Textual mention : 1.0	changes		observed in		setting
+Textual mention : 0.7193861127229091	changes		observed in		clinical setting
+Textual mention : 1.0	physical changes		observed in		clinical setting
+Textual mention : 0.7193861127229091	changes		observed in		setting
+Textual mention : 0.7193861127229091	physical changes		observed in		setting
+Textual mention : 1.0	changes		observed in		clinical setting
+Textual mention : 1.0	pencil test		is For		example
+Textual mention : 1.0	physical changes		is For		example
+Textual mention : 1.0	physical changes		observed in		setting
+Textual mention : 0.7193861127229091	physical changes		observed in		clinical setting
+Textual mention : 1.0	paper		is For		example
+
+Sentence : For ground water systems it is the land area around a well or well field that supplies ground water to the well over a long period of time considering seasonal conditions, such as floods or crop irrigation, change the direction of groundwater flow.
+Textual mention : 0.5153221188789492	change		direction of		groundwater flow
+Textual mention : 0.38469434094128174	considering		seasonal conditions such as		floods
+Textual mention : 1.0	it		is		land area
+Textual mention : 1.0	it		is		For ground water systems land area
+Textual mention : 1.0	it		change		direction of groundwater flow
+Textual mention : 0.38469434094128174	considering		conditions such as		floods
+Textual mention : 1.0	it		change		direction
+Textual mention : 1.0	ground water		considering		conditions
+Textual mention : 1.0	ground water		considering		seasonal conditions
+
+Sentence : For precipitation to form, temperatures inside the cloud have to be less than the freezing point of water.
+Textual mention : 1.0	temperatures		have		less than freezing point
+Textual mention : 1.0	temperatures		have		less
+Textual mention : 1.0	temperatures		have For		precipitation form
+Textual mention : 1.0	temperatures		have		less than freezing point of water
+
+Sentence : For their part in the food chain, rays act as scavengers or bottom cleaners.
+Textual mention : 1.0	rays		act For		their part in food chain
+Textual mention : 1.0	rays		act For		their part
+Textual mention : 1.0	rays		act as		scavengers
+Textual mention : 1.0	their part		is in		food chain

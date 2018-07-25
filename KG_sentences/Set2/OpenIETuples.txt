@@ -1,0 +1,31 @@
+Sentence : I play football every weekend.
+Textual mention : 1.0	I		play football at_time		weekend
+
+Sentence : The human body contains 206 bones.
+Textual mention : 1.0	human body		contains		206 bones
+Textual mention : 1.0	body		contains		206 bones
+
+Sentence : Light travels at almost 300,000 kilometres per second.
+
+Sentence : English	is spoken all over the world.
+Textual mention : 1.0	English		is spoken over		world
+Textual mention : 1.0	English		is spoken over		all world
+
+Sentence : The windows have been cleaned.
+Textual mention : 1.0	windows		have		have cleaned
+
+Sentence : Lunch was being	served.
+Textual mention : 1.0	Lunch		was		was served
+
+Sentence : The work will be finished soon.
+Textual mention : 1.0	work		will		will finished
+Textual mention : 1.0	work		will		will finished soon
+
+Sentence : They might have been invited to the party.
+Textual mention : 1.0	They		might		might have invited
+Textual mention : 1.0	They		might		might have invited to party
+
+Sentence : I do agree with you.
+Textual mention : 1.0	I		do agree with		you
+
+Sentence : I think you are absolutely right.

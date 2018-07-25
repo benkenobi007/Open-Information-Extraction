@@ -1,0 +1,29 @@
+I play football every weekend.
+0.618: (I; play; football)
+
+The human body contains 206 bones.
+0.782: (The human body; contains; 206 bones)
+
+Light travels at almost 300,000 kilometres per second.
+No extractions found.
+
+English is spoken all over the world.
+No extractions found.
+
+The windows have been cleaned.
+No extractions found.
+
+Lunch was being served.
+No extractions found.
+
+The work will be finished soon.
+No extractions found.
+
+They might have been invited to the party.
+0.94: (They; might have been invited to; the party)
+
+I do agree with you.
+0.717: (I; do agree with; you)
+
+I think you are absolutely right.
+No extractions found.

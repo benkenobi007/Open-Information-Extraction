@@ -1,0 +1,11 @@
+They are working hard.												--> OEN, OLN
+They will be working hard.											--> OEN, OLN
+They had worked hard.												--> OEN, OLN
+They have been working hard.										--> OEN, OLN
+They might have been working hard.									--> OEN, OLN
+I'll come home when I finish work.									-->	OEB, OLB
+You must wait here until your father comes.							-->	OEB, OLN
+They are coming after they have had dinner.							--> OEB, OLB
+We won't be able to go out if it is raining.						--> OEN, OLB
+If Barcelona win tomorrow they will be champions.					--> OEB, OLB
+I will come tomorrow unless I have to look after the children.		--> OEB, OLG

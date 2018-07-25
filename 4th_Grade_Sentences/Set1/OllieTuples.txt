@@ -1,0 +1,34 @@
+A click on the glass of water produces the sound of water running.
+No extractions found.
+
+Add measured curing salt to spice mixture you set aside.
+No extractions found.
+
+A different definition of life-cycle costing is used here.
+No extractions found.
+
+Adult females will lay eggs.
+0.779: (Adult females; will lay; eggs)
+
+A food thermometer is a good tool to have in your kitchen.
+0.757: (A food thermometer; is; a good tool to have in your kitchen)
+
+A glacier is a large body of ice and snow.
+0.93: (A glacier; is a large body of; ice and snow)
+0.736: (A glacier; is; a large body of ice)
+
+A good supply of iron and zinc is needed in the diet to keep the nails strong.
+0.929: (A good supply of iron; is needed in; the diet)
+
+Agriculture and aquaculture are dependent upon parasitologists to assist in prov
+iding plant and animal food for an increasing human population.
+0.844: (Agriculture and aquaculture; are dependent upon; parasitologists)
+
+A heat pump makes use of the existing heat in the air by simply transferring it
+from one place to another.
+0.871: (A heat pump; makes; use of the existing heat)
+0.6: (it; be simply transferring from; one place)
+
+All of our dogs prefer this to tinned or dried dog food, and it is much cheaper.
+
+No extractions found.

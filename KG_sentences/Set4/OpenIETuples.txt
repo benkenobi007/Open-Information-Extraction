@@ -1,0 +1,44 @@
+Sentence : The lion was killed by the hunter.
+Textual mention : 1.0	lion		was		killed
+Textual mention : 1.0	lion		was killed by		hunter
+
+Sentence : The windows have been cleaned.
+Textual mention : 1.0	windows		have		have cleaned
+
+Sentence : Someone has cleaned the windows.
+Textual mention : 1.0	Someone		has cleaned		windows
+
+Sentence : The hunter killed the lion.
+Textual mention : 1.0	hunter		killed		lion
+
+Sentence : He was given a book for his birthday.
+Textual mention : 1.0	He		was given		book for his birthday
+Textual mention : 1.0	He		was given		book
+
+Sentence : I gave him a book for his birthday.
+Textual mention : 1.0	I		gave		him
+Textual mention : 1.0	I		gave		book
+Textual mention : 1.0	I		gave		book for his birthday
+
+Sentence : Someone sent her a cheque for a thousand euros.
+Textual mention : 1.0	Someone		sent		her
+Textual mention : 1.0	Someone		sent		cheque for thousand euros
+Textual mention : 1.0	Someone		sent		cheque
+
+Sentence : She was sent a cheque for a thousand euros.
+Textual mention : 1.0	She		was sent		cheque
+Textual mention : 1.0	She		was sent cheque for		thousand euros
+
+Sentence : His grandmother looked after him.
+Textual mention : 1.0	His grandmother		looked after		him
+
+Sentence : He was looked after by his grandmother.
+Textual mention : 1.0	He		was looked by		his grandmother
+Textual mention : 1.0	He		was		looked
+Textual mention : 1.0	He		was		looked after
+Textual mention : 1.0	He		was looked after by		his grandmother
+
+Sentence : The children are growing up.
+
+
+Process finished with exit code 0

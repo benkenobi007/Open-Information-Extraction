@@ -1,0 +1,41 @@
+Sentence : I played football.
+Textual mention : 1.0	I		played		football
+
+Sentence : We ate lots of cake!
+
+Sentence : She didn't watch a film.
+
+Sentence : The next train leaves at this evening at 1700 hours.
+Textual mention : 1.0	train		leaves at		evening
+Textual mention : 1.0	train		leaves at		1700 hours
+Textual mention : 1.0	next train		leaves at		1700 hours
+Textual mention : 1.0	next train		leaves at		evening
+
+Sentence : I'll phone you when I get home.
+Textual mention : 1.0	I		'll phone		you
+Textual mention : 1.0	I		get		home
+
+Sentence : He is meeting Peter in town this afternoon.
+Textual mention : 1.0	He		is meeting		Peter
+Textual mention : 1.0	He		is meeting Peter in		town
+Textual mention : 1.0	He		is meeting Peter at_time		afternoon
+
+Sentence : I'll come home as soon as I have finished work.
+Textual mention : 1.0	I		'll come soon		home
+Textual mention : 1.0	I		'll come		home
+Textual mention : 1.0	I		'll come as soon		home
+
+Sentence : You will be tired out after you have been working all night.
+
+Sentence : The school term starts next week.
+Textual mention : 1.0	school term		starts at_time		week
+Textual mention : 1.0	school term		starts at_time		next week
+
+Sentence : The train leaves at 1945 this evening.
+Textual mention : 1.0	train		leaves at_time		evening
+Textual mention : 1.0	train		leaves at		1945
+
+Sentence : We fly to Paris next week.
+Textual mention : 1.0	We		fly to		Paris
+Textual mention : 1.0	We		fly at_time		next week
+Textual mention : 1.0	We		fly at_time		week

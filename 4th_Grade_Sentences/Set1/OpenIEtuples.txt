@@ -1,0 +1,59 @@
+Sentence : A click on the glass of water produces the sound of water running.
+
+Sentence : Add measured curing salt to spice mixture you set aside.
+
+Sentence : A different definition of life-cycle costing is used here.
+Textual mention : 1.0	different definition		is		used here
+Textual mention : 1.0	definition		is		used
+Textual mention : 1.0	definition		is		used here
+Textual mention : 1.0	different definition		is		used
+
+Sentence : Adult females will lay eggs.
+Textual mention : 1.0	females		will lay		eggs
+Textual mention : 1.0	Adult females		will lay		eggs
+
+Sentence : A food thermometer is a good tool to have in your kitchen.
+Textual mention : 1.0	food thermometer		is tool		have
+Textual mention : 1.0	thermometer		is		good
+Textual mention : 1.0	food thermometer		is tool		have in your kitchen
+Textual mention : 1.0	food thermometer		is good tool		have
+Textual mention : 1.0	food thermometer		is good tool		have in your kitchen
+
+Sentence : A glacier is a large body of ice and snow.
+Textual mention : 1.0	glacier		is		body
+Textual mention : 1.0	glacier		is large body of		ice
+Textual mention : 1.0	glacier		is		large body
+Textual mention : 1.0	glacier		is		large
+Textual mention : 1.0	glacier		is body of		ice
+
+Sentence : A good supply of iron and zinc is needed in the diet to keep the nails strong.
+Textual mention : 1.0	good supply		keep		nails strong
+Textual mention : 1.0	good supply		is		needed
+Textual mention : 1.0	supply		is		needed
+Textual mention : 1.0	supply		is needed in		diet
+Textual mention : 1.0	supply		keep		nails strong
+Textual mention : 1.0	good supply		is needed in		diet
+Textual mention : 1.0	good supply		is needed		keep
+Textual mention : 1.0	supply		is needed		keep
+
+Sentence : Agriculture and aquaculture are dependent upon parasitologists to assist in providing plant and animal food for an increasing human population.
+Textual mention : 1.0	Agriculture		are		dependent upon parasitologists assist
+Textual mention : 1.0	aquaculture		are dependent upon		parasitologists assist
+Textual mention : 1.0	Agriculture		are dependent upon		parasitologists assist
+Textual mention : 1.0	Agriculture		are		dependent
+Textual mention : 1.0	aquaculture		are		dependent
+
+Sentence : A heat pump makes use of the existing heat in the air by simply transferring it from one place to another.
+Textual mention : 1.0	heat pump		simply transferring		it
+Textual mention : 1.0	heat pump		makes		use of heat
+Textual mention : 1.0	heat pump		makes		use of heat in air
+Textual mention : 1.0	heat pump		makes		use of existing heat
+Textual mention : 1.0	heat pump		transferring		it
+Textual mention : 1.0	use		is in		air
+Textual mention : 1.0	heat pump		makes		use in air
+Textual mention : 1.0	heat pump		makes		use
+Textual mention : 1.0	heat pump		makes		use of existing heat in air
+
+Sentence : All of our dogs prefer this to tinned or dried dog food, and it is much cheaper.
+Textual mention : 1.0	it		is		cheaper
+Textual mention : 1.0	it		is		much cheaper

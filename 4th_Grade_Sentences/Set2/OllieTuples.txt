@@ -1,0 +1,40 @@
+Crystals form most quickly on metal components.
+0.83: (Crystals; form most quickly on; metal components)
+
+Drinking water increases the volume of urine.
+No extractions found.
+
+Energy from the sun is the driving force of an ecosystem.
+0.897: (Energy; is the driving force of; an ecosystem)
+0.795: (Energy; is; the driving force of an ecosystem)
+
+Energy from the sun reaches the earth by radiation only.
+0.733: (Energy; reaches the earth only by; radiation)
+0.712: (Energy; reaches only; the earth)
+
+Fertilizers can be expensive and are manufactured using nonrenewable fossil fuels.
+No extractions found.
+
+For example, mole crickets usually lay eggs in the same location each year.
+0.87: (mole crickets; usually lay eggs in; the same location)
+0.826: (mole crickets; usually lay; eggs)
+0.555: (eggs; be usually lay in; the same location)
+0.404: (mole crickets; usually lay eggs for; example)
+0.139: (eggs; be usually lay for; example)
+
+For example, there is the paper and pencil test , clinical laboratory tests, and physical changes observed in the clinic
+al setting.
+0.894: (the paper and pencil test , clinical laboratory tests , and physical changes; observed in; the clinical setting)
+
+
+For ground water systems it is the land area around a well or well field that supplies ground water to the well over a l
+ong period of time considering seasonal conditions, such as floods or crop irrigation, change the direction of groundwat
+er flow.
+0.685: (it; is; the land area)
+
+For precipitation to form, temperatures inside the cloud have to be less than the freezing point of water.
+0.633: (temperatures; have for; precipitation to form)
+
+For their part in the food chain, rays act as scavengers or bottom cleaners.
+0.821: (rays; act as; scavengers or bottom cleaners)
+0.582: (rays; act for; their part)
